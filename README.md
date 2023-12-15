@@ -7,3 +7,5 @@
 ## matrix
 
 [1582. Special Positions in a Binary Matrix](1582.md)
+
+[2482. Difference Between Ones and Zeros in Row and Column](2482.md)
