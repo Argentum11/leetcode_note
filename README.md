@@ -13,3 +13,7 @@
 ## hash table
 
 [242. Valid Anagram](242.md)
+
+## string
+
+[1758. Minimum Changes To Make Alternating Binary String](1758.md)
