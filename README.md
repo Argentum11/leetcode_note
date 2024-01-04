@@ -17,3 +17,7 @@
 ## string
 
 [1758. Minimum Changes To Make Alternating Binary String](1758.md)
+
+## greedy
+
+[2870. Minimum Number of Operations to Make Array Empty](2870.md)
