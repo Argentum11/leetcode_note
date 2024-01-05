@@ -21,3 +21,7 @@
 ## greedy
 
 [2870. Minimum Number of Operations to Make Array Empty](2870.md)
+
+## dynamic programming
+
+[300. Longest Increasing Subsequence](300.md)
