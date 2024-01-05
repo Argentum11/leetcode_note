@@ -16,8 +16,8 @@ note_markdown = template_content.replace("# ", f"# {title}", 1)
 
 # # save markdown to new markdown file
 problem_number = title.split(".")[0]
-# with open(f"{problem_number}.md", 'w', encoding='utf-8') as output_file:
-#     output_file.write(note_markdown)
+with open(f"{problem_number}.md", 'w', encoding='utf-8') as output_file:
+    output_file.write(note_markdown)
 
 # find topic block
 topic = args.topic
