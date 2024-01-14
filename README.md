@@ -14,6 +14,8 @@
 
 [242. Valid Anagram](242.md)
 
+[1657. Determine if Two Strings Are Close](1657.md)
+
 ## string
 
 [1758. Minimum Changes To Make Alternating Binary String](1758.md)
