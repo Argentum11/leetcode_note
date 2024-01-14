@@ -25,3 +25,7 @@
 ## dynamic programming
 
 [300. Longest Increasing Subsequence](300.md)
+
+## tree
+
+[1026. Maximum Difference Between Node and Ancestor](1026.md)
