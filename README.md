@@ -28,6 +28,8 @@
 
 [300. Longest Increasing Subsequence](300.md)
 
+[70. Climbing Stairs](70.md)
+
 ## tree
 
 [1026. Maximum Difference Between Node and Ancestor](1026.md)
