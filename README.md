@@ -33,3 +33,7 @@
 ## tree
 
 [1026. Maximum Difference Between Node and Ancestor](1026.md)
+
+## bit manipulation
+
+[1457. Pseudo-Palindromic Paths in a Binary Tree](1457.md)
