@@ -37,3 +37,7 @@
 ## bit manipulation
 
 [1457. Pseudo-Palindromic Paths in a Binary Tree](1457.md)
+
+## Monotonic Stack
+
+[739. Daily Temperatures](739.md)
