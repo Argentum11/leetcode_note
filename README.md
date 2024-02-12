@@ -43,3 +43,7 @@
 ## Monotonic Stack
 
 [739. Daily Temperatures](739.md)
+
+## counting
+
+[169. Majority Element](169.md)
