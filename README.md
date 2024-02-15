@@ -47,3 +47,7 @@
 ## counting
 
 [169. Majority Element](169.md)
+
+## two pointers
+
+[2149. Rearrange Array Elements by Sign](2149.md)
