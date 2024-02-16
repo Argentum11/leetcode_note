@@ -28,9 +28,9 @@
 
 ## dynamic programming
 
-[300. Longest Increasing Subsequence](300.md)
-
 [70. Climbing Stairs](70.md)
+
+[300. Longest Increasing Subsequence](300.md)
 
 ## tree
 
