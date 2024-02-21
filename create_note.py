@@ -2,7 +2,7 @@ import argparse
 
 
 def get_problem_number(title: str) -> int:
-    return title.split(".")[0]
+    return int(title.split(".")[0])
 
 
 # parser
@@ -22,7 +22,7 @@ with open("note_template.md", 'r', encoding='utf-8') as template_file:
 note_markdown = template_content.replace("# ", f"# {title}", 1)
 
 # save markdown to new markdown file
-problem_number = title.split(".")[0]
+problem_number = int(title.split(".")[0])
 with open(f"{problem_number}.md", 'w', encoding='utf-8') as output_file:
     output_file.write(note_markdown)
 
