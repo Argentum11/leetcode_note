@@ -38,6 +38,8 @@
 
 ## tree
 
+[543. Diameter of Binary Tree](543.md)
+
 [1026. Maximum Difference Between Node and Ancestor](1026.md)
 
 ## bit manipulation
